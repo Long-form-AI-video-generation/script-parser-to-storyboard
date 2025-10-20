@@ -8,7 +8,7 @@ This repository provides a dual-pipeline system for transforming screenplay PDFs
 
 ## Badges
 
-![Python Version](https://img.shields.io/badge/python-3.10+-blue.svg)![License](https://img.shields.io/badge/license-MIT-green.svg)![Status](https://img.shields.io/badge/status-active-success.svg)![AI Providers](https://img.shields.io/badge/AI-OpenRouter%20%7C%20Gemini-orange.svg)
+![Python Version](https://img.shields.io/badge/python-3.10+-blue.svg)![Status](https://img.shields.io/badge/status-active-success.svg)![AI Providers](https://img.shields.io/badge/AI-OpenRouter%20%7C%20Gemini-orange.svg)
 
 ---
 
@@ -20,8 +20,6 @@ This repository provides a dual-pipeline system for transforming screenplay PDFs
 - [The Two Pipelines](#-the-two-pipelines)
 - [Example Usage](#-example-usage)
 - [Development Guide](#-development-guide)
-- [Contributing Guidelines](#-contributing-guidelines)
-- [License](#-license)
 - [Maintainers & Acknowledgements](#-maintainers--acknowledgements)
 
 ---
@@ -233,25 +231,6 @@ script-parser-to-storyboard/
 
 ---
 
-## Contributing Guidelines
-
-Contributions are welcome! Please follow this workflow to submit changes.
-
-1.  **Fork the repository.**
-2.  **Create a feature branch** (`git checkout -b feature/your-new-feature`).
-3.  **Commit your changes** (`git commit -m 'feat: Add some amazing feature'`).
-4.  **Push to the branch** (`git push origin feature/your-new-feature`).
-5.  **Open a Pull Request.**
-
-Please adhere to **PEP 8** coding standards and include docstrings for new functions.
-
----
-
-## License
-
-This project is licensed under the **MIT License**. See the `LICENSE` file for details.
-
----
 
 ## Maintainers & Acknowledgements
 
