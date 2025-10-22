@@ -1,0 +1,12 @@
+# Python cache
+__pycache__/
+
+# Virtual environment
+venv/
+.env
+
+# PDF scripts
+/Anime Scripts/
+
+# Chroma / vector store
+rag_db/
